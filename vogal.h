@@ -1,0 +1,1 @@
+void trocaVogalPorEspaco(char vogal[]);
